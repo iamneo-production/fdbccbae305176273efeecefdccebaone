@@ -1,0 +1,18 @@
+Sep 16, 2023 7:38:52 AM runner.Base openBrowser
+INFO: Browser Launched
+Sep 16, 2023 7:38:54 AM runner.Base openBrowser
+INFO: Browser Loaded the URL
+Sep 16, 2023 7:38:55 AM runner.Testcase1 Register
+INFO: Browser Launched
+Sep 16, 2023 7:38:55 AM runner.Testcase1 Register
+INFO: Mail ID Sent
+Sep 16, 2023 7:38:55 AM runner.Testcase1 Register
+INFO: Password Sent
+Sep 16, 2023 7:38:59 AM runner.Testcase1 Register
+INFO: Submit Button clicked
+Sep 16, 2023 7:39:01 AM runner.Testcase1 Register
+INFO: Account Type has been selected
+Sep 16, 2023 7:39:02 AM runner.Testcase1 Register
+INFO: Amount has been sent
+Sep 16, 2023 7:39:05 AM runner.Testcase1 afterMethod
+INFO: Browser closed
