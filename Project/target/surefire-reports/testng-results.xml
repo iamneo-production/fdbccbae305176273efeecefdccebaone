@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-09-16T07:38:28 UTC" name="Surefire suite" finished-at="2023-09-16T07:39:25 UTC" duration-ms="57129">
+  <suite started-at="2023-09-16T07:42:20 UTC" name="Surefire suite" finished-at="2023-09-16T07:42:50 UTC" duration-ms="30122">
     <groups>
     </groups>
-    <test started-at="2023-09-16T07:38:28 UTC" name="Surefire test" finished-at="2023-09-16T07:39:25 UTC" duration-ms="57129">
+    <test started-at="2023-09-16T07:42:20 UTC" name="Surefire test" finished-at="2023-09-16T07:42:50 UTC" duration-ms="30122">
       <class name="runner.Testcase1">
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:runner.Testcase1@54c5a2ff]" started-at="2023-09-16T07:38:29 UTC" name="beforeMethod" finished-at="2023-09-16T07:38:40 UTC" duration-ms="11357" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:runner.Testcase1@54c5a2ff]" started-at="2023-09-16T07:42:20 UTC" name="beforeMethod" finished-at="2023-09-16T07:42:24 UTC" duration-ms="3550" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="Register(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:runner.Testcase1@54c5a2ff]" started-at="2023-09-16T07:38:40 UTC" name="Register" data-provider="testData" finished-at="2023-09-16T07:38:51 UTC" duration-ms="11276" status="PASS">
+        <test-method signature="Register(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:runner.Testcase1@54c5a2ff]" started-at="2023-09-16T07:42:24 UTC" name="Register" data-provider="testData" finished-at="2023-09-16T07:42:35 UTC" duration-ms="10703" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -37,15 +37,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Register -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:runner.Testcase1@54c5a2ff]" started-at="2023-09-16T07:38:51 UTC" name="afterMethod" finished-at="2023-09-16T07:38:52 UTC" duration-ms="405" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:runner.Testcase1@54c5a2ff]" started-at="2023-09-16T07:42:35 UTC" name="afterMethod" finished-at="2023-09-16T07:42:35 UTC" duration-ms="408" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:runner.Testcase1@54c5a2ff]" started-at="2023-09-16T07:38:52 UTC" name="beforeMethod" finished-at="2023-09-16T07:39:07 UTC" duration-ms="15016" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:runner.Testcase1@54c5a2ff]" started-at="2023-09-16T07:42:35 UTC" name="beforeMethod" finished-at="2023-09-16T07:42:37 UTC" duration-ms="2165" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="Valid_Login_TC(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:runner.Testcase1@54c5a2ff]" started-at="2023-09-16T07:39:07 UTC" name="Valid_Login_TC" data-provider="testData" finished-at="2023-09-16T07:39:09 UTC" duration-ms="2079" status="PASS">
+        <test-method signature="Valid_Login_TC(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:runner.Testcase1@54c5a2ff]" started-at="2023-09-16T07:42:37 UTC" name="Valid_Login_TC" data-provider="testData" finished-at="2023-09-16T07:42:39 UTC" duration-ms="1925" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -71,15 +71,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Valid_Login_TC -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:runner.Testcase1@54c5a2ff]" started-at="2023-09-16T07:39:09 UTC" name="afterMethod" finished-at="2023-09-16T07:39:09 UTC" duration-ms="123" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:runner.Testcase1@54c5a2ff]" started-at="2023-09-16T07:42:39 UTC" name="afterMethod" finished-at="2023-09-16T07:42:39 UTC" duration-ms="120" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:runner.Testcase1@54c5a2ff]" started-at="2023-09-16T07:39:09 UTC" name="beforeMethod" finished-at="2023-09-16T07:39:15 UTC" duration-ms="6505" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:runner.Testcase1@54c5a2ff]" started-at="2023-09-16T07:42:39 UTC" name="beforeMethod" finished-at="2023-09-16T07:42:42 UTC" duration-ms="2133" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="WithdrawTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:runner.Testcase1@54c5a2ff]" started-at="2023-09-16T07:39:15 UTC" name="WithdrawTest" data-provider="testData" finished-at="2023-09-16T07:39:25 UTC" duration-ms="9560" status="PASS">
+        <test-method signature="WithdrawTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:runner.Testcase1@54c5a2ff]" started-at="2023-09-16T07:42:42 UTC" name="WithdrawTest" data-provider="testData" finished-at="2023-09-16T07:42:50 UTC" duration-ms="8286" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -105,7 +105,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- WithdrawTest -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:runner.Testcase1@54c5a2ff]" started-at="2023-09-16T07:39:25 UTC" name="afterMethod" finished-at="2023-09-16T07:39:25 UTC" duration-ms="134" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:runner.Testcase1@54c5a2ff]" started-at="2023-09-16T07:42:50 UTC" name="afterMethod" finished-at="2023-09-16T07:42:50 UTC" duration-ms="128" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
